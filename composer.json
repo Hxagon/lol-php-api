@@ -1,0 +1,13 @@
+{
+    "name": "ronnylindner/lol-php-api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ronny Lindner",
+            "email": "ronnylindner@immorocks.com"
+        }
+    ],
+    "require": {
+        "dolejska-daniel/riot-api": "^4"
+    }
+}
